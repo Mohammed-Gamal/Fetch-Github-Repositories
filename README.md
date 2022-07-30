@@ -2,6 +2,8 @@
 
 Simple application to fetch any github repositories using only github username, also includes stars count and a link for each repository
 
+<hr>
+
 ## Technologies Used:
 - [x] HTML
 - [x] CSS
